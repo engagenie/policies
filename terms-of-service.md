@@ -1,6 +1,6 @@
 # **Lapsly Terms of Service**
 
-## Last modified: July 8, 2019
+## Last modified: August 13, 2019
 
 ## 1. Your relationship with Lapsly
 
@@ -232,48 +232,22 @@ d. Other Forms of Payment. Lapsly may enable other forms of payment by making th
 
 19.3 You acknowledge and agree that neither Lapsly nor its licensors or resellers are liable for any loss or damage which may be incurred by you as a result of the availability of those external sites or resources, or as a result of any reliance placed by you on the completeness, accuracy or existence of any advertising, products or other materials on, or available from, such web sites or resources.
 
-## 20. Community Galleries
+## 20. Changes to the Terms
 
-20.1 The Service may contain galleries that may present third party content ("Community Galleries"). Community Galleries include without limitation the Templates Library and any other gallery that Lapsly chooses at its discretion to make available to you. The content and information in the Community Galleries ("Gallery Content"), such as templates, was created by Lapsly or by third parties. As between you and the creators of Gallery Content, any intellectual property or proprietary rights remain with the creators.
+20.1 Lapsly may make changes to the Terms from time to time. When these changes are made, Lapsly will make a new copy of the Terms available at https://github.com/engagenie/policies/blob/master/terms-of-service.md.
 
-20.2 The Gallery Content: (a) is meant to serve as a suggestion only; and (b) is not a substitute for professional advice or specific, authoritative knowledge or direction. Lapsly does not promise that the Gallery Content will work for your purposes, or that it is free from viruses, bugs, or other defects. The Gallery Content is provided "as is" and without warranty of any kind. You alone bear the risk of using Gallery Content. Lapsly and its suppliers provide no express warranties, guarantees and conditions with regard to the Gallery Content. To the extent permitted under applicable law, Lapsly excludes the implied warranties and conditions of merchantability, fitness for a particular purpose, workmanlike effort, title and non-infringement.
+20.2 You understand and agree that if you use the Services after the date on which the Terms have changed, Lapsly will treat your use as acceptance of the updated Terms.
 
-20.3 If you choose to submit Content to become part of the Community Galleries (your "Gallery Submission"), you direct and authorize Lapsly and its affiliates to host, link to, and otherwise incorporate your Gallery Submission into the Services, and you grant Lapsly and its end users a worldwide, royalty-free, non-exclusive license to exercise the rights in the Gallery Submission, as stated below:
+## 21. General legal terms
 
-(A) to reproduce the Gallery Submission;
+21.1 Sometimes when you use the Services, you may (as a result of, or through your use of the Services) use a service or download a piece of software, or purchase goods, which are provided by another person or company. Your use of these other services, software or goods may be subject to separate terms between you and the company or person concerned. If so, the Terms do not affect your legal relationship with these other companies or individuals.
 
-(B) to create and reproduce derivative works of the Gallery Submission;
+21.2 The Terms constitute the whole legal agreement between you and Lapsly and govern your use of the Services (but excluding any services which Lapsly may provide to you under a separate written agreement), and completely replace any prior agreements between you and Lapsly in relation to the Services.
 
-(C) to display publicly and distribute copies of the Gallery Submission;
+21.3 You agree that Lapsly may provide you with notices, including those regarding changes to the Terms, by email, regular mail, or postings on the Services.
 
-(D) to display publicly and distribute copies of derivative works of the Gallery Submission.
+21.4 You agree that if Lapsly does not exercise or enforce any legal right or remedy which is contained in the Terms (or which Lapsly has the benefit of under any applicable law), this will not be taken to be a formal waiver of Lapsly’s rights and that those rights or remedies will still be available to Lapsly.
 
-You agree that your license to Lapsly and Lapsly end users will be perpetual. Furthermore, for the avoidance of doubt, Lapsly reserves, and you grant Lapsly, the right to syndicate the Gallery Submission submitted by you and use that Gallery Submission in connection with any of the Services offered by Lapsly. You retain the right to stop distributing the Gallery Submission through the Lapsly Community Galleries at any time; provided, however that any such election will not serve to withdraw the licenses granted to Lapsly and its end users under these Terms of Service. In order to stop distributing the Gallery Submission through the Lapsly Community Galleries, you must utilize the removal functions provided within the Services, in which case the Gallery Submission removal will be effective within a reasonable amount of time.
+21.5 If any court of law, having the jurisdiction to decide on this matter, rules that any provision of these Terms is invalid, then that provision will be removed from the Terms without affecting the rest of the Terms. The remaining provisions of the Terms will continue to be valid and enforceable.
 
-20.4 You represent and warrant that (a) you own or have obtained the necessary legal rights to provide all Gallery Submissions you submit through the Services, and will maintain these rights for as long as the Gallery Submission is available to Lapsly end users; and (b) all of the Gallery Submission you submit through the Services abide by the posted Program Policies.
-
-20.5 Lapsly claims no ownership over any Gallery Submission you submit through the Services. You retain copyright and any other rights, including all intellectual property rights, you already hold in the Gallery Submission. You agree that you are responsible for protecting and enforcing those rights and that Lapsly has no obligation to do so on your behalf.
-
-20.6 You agree that you are solely responsible for (and that Lapsly has no responsibility to you or to any third party for) any Gallery Submission that you submit. Lapsly is not in any way responsible for the subsequent use or misuse by Lapsly end users who access your Gallery Submission.
-
-20.7 You hereby agree to indemnify, defend and hold Lapsly, its resellers, partners, officers, directors, agents, affiliates, and licensors ("the Indemnified Parties") harmless from and against any claim or liability arising out of (a) any Content you submit, share, upload, post or display on or to the Service; (b) any use by Lapsly end users of your Content; (c) any breach of or noncompliance with any representation, warranty or obligation in these Terms or applicable policies; and (d) any claim that your Content violates any applicable law, including without limitation that it infringes the rights of a third party. You shall cooperate fully in the defense of any claim. Lapsly reserves the right, at its own expense, to assume the exclusive defense and control of any matter subject to indemnification by you. You acknowledge that damages for improper use of the Services may be irreparable; therefore, Lapsly is entitled to seek equitable relief, including injunction and preliminary injunction, in addition to all other remedies. This section shall take precedence only over the indemnity provision provided in any Terms.
-
-## 21. Changes to the Terms
-
-21.1 Lapsly may make changes to the Terms from time to time. When these changes are made, Lapsly will make a new copy of the Terms available at https://github.com/engagenie/policies/blob/master/terms-of-service.md.
-
-21.2 You understand and agree that if you use the Services after the date on which the Terms have changed, Lapsly will treat your use as acceptance of the updated Terms.
-
-## 22. General legal terms
-
-22.1 Sometimes when you use the Services, you may (as a result of, or through your use of the Services) use a service or download a piece of software, or purchase goods, which are provided by another person or company. Your use of these other services, software or goods may be subject to separate terms between you and the company or person concerned. If so, the Terms do not affect your legal relationship with these other companies or individuals.
-
-22.2 The Terms constitute the whole legal agreement between you and Lapsly and govern your use of the Services (but excluding any services which Lapsly may provide to you under a separate written agreement), and completely replace any prior agreements between you and Lapsly in relation to the Services.
-
-22.3 You agree that Lapsly may provide you with notices, including those regarding changes to the Terms, by email, regular mail, or postings on the Services.
-
-22.4 You agree that if Lapsly does not exercise or enforce any legal right or remedy which is contained in the Terms (or which Lapsly has the benefit of under any applicable law), this will not be taken to be a formal waiver of Lapsly’s rights and that those rights or remedies will still be available to Lapsly.
-
-22.5 If any court of law, having the jurisdiction to decide on this matter, rules that any provision of these Terms is invalid, then that provision will be removed from the Terms without affecting the rest of the Terms. The remaining provisions of the Terms will continue to be valid and enforceable.
-
-22.6 The Terms, and your relationship with Lapsly under the Terms, shall be governed by the laws of the State of Iowa without regard to its conflict of laws provisions. You and Lapsly agree to submit to the exclusive jurisdiction of the courts located within Iowa City, Iowa to resolve any legal matter arising from the Terms. Notwithstanding this, you agree that Lapsly shall still be allowed to apply for injunctive remedies (or an equivalent type of urgent legal relief) in any jurisdiction.
+21.6 The Terms, and your relationship with Lapsly under the Terms, shall be governed by the laws of the State of New York without regard to its conflict of laws provisions. You and Lapsly agree to submit to the exclusive jurisdiction of the courts located within New York City, NY to resolve any legal matter arising from the Terms. Notwithstanding this, you agree that Lapsly shall still be allowed to apply for injunctive remedies (or an equivalent type of urgent legal relief) in any jurisdiction.
