@@ -1,6 +1,6 @@
 # Lapsly Privacy Policy
 
-_Last Modified: August 13, 2019 (changes to go into effect August 13, 2019)_
+_Last Modified: September 13, 2019 (changes to go into effect September 13, 2019)_
 
 Lapsly is designed for use in schools, and we are committed to the highest standards of protection for student data and personally identifiable information (“PII”) at all times. In addition to this Privacy Policy, we also comply with the Family Educational Rights and Privacy Act (“FERPA”), and the Children’s Online Privacy Protection Act ("COPPA"), and applicable state laws.
 
@@ -74,7 +74,7 @@ If you submit Personal Information to us, we will only use it for the purpose yo
 
 ## HOW WE COLLECT USAGE DATA
 
-Lapsly collects some information (ourselves or using third party services) using logging and cookies, such as IP address, which can be correlated with Personal Information. We use this information for the above purposes and to monitor and analyze use of our Services, for the Service’s technical administration, to increase our Service’s functionality and user-friendliness, and to verify users have the authorization needed for our Services to process their requests. As of the date this policy went into effect, we use Google Analytics to track anonymous usage across all users and Hubspot to track usage for users specifically identified as teachers. The Privacy Policies of [Google Analytics](http://www.google.com/intl/en/policies/ and [Hubspot](https://legal.hubspot.com/privacy-policy)) are available online, [and information on how to opt out of that service](https://tools.google.com/dlpage/gaoptout?hl=en).
+Lapsly collects some information (ourselves or using third party services) using logging and cookies, such as IP address, which can be correlated with Personal Information. We use this information for the above purposes and to monitor and analyze use of our Services, for the Service’s technical administration, to increase our Service’s functionality and user-friendliness, and to verify users have the authorization needed for our Services to process their requests. As of the date this policy went into effect, we use Google BigQuery to track anonymous usage across all users.
 
 We store all of our data on Google Cloud Platform.
 
@@ -112,11 +112,11 @@ Lapsly will display your Personal Information in your profile page and elsewhere
 
 Service Providers used for business functions:
 
-- HubSpot marketing platform to perform personalized email communication
+- [SendGrid](https://sendgrid.com) to perform personalized email communication (only for teacher users who have opted into receiving emial communicaion from Lapsly.)
 
-- Google Analytics and HubSpot to collect, analyze and report usage data
+- [Google BigQuery](https://cloud.google.com/bigquery) to analyze and report usage data.
 
-- Stripe to collect and report subscription data for premium users
+- [Stripe](https://stripe.com) to collect and report subscription data for premium users. (only for teacher users who have purchased a premium subscription)
 
 Service Providers used for the technical infrastructure of our application:
 
