@@ -1,6 +1,6 @@
 # Lapsly Privacy Policy
 
-_Last Modified: September 13, 2019 (changes to go into effect September 13, 2019)_
+_Last Modified: September 15, 2019 (changes to go into effect September 15, 2019)_
 
 Lapsly is designed for use in schools, and we are committed to the highest standards of protection for student data and personally identifiable information (“PII”) at all times. In addition to this Privacy Policy, we also comply with the Family Educational Rights and Privacy Act (“FERPA”), and the Children’s Online Privacy Protection Act ("COPPA"), and applicable state laws.
 
@@ -74,7 +74,7 @@ If you submit Personal Information to us, we will only use it for the purpose yo
 
 ## HOW WE COLLECT USAGE DATA
 
-Lapsly collects some information (ourselves or using third party services) using logging and cookies, such as IP address, which can be correlated with Personal Information. We use this information for the above purposes and to monitor and analyze use of our Services, for the Service’s technical administration, to increase our Service’s functionality and user-friendliness, and to verify users have the authorization needed for our Services to process their requests. As of the date this policy went into effect, we use Google BigQuery to track anonymous usage across all users.
+Lapsly collects some information (ourselves or using third party services) using logging and cookies, such as IP address, which can be correlated with Personal Information. We use this information for the above purposes and to monitor and analyze use of our Services, for the Service’s technical administration, to increase our Service’s functionality and user-friendliness, and to verify users have the authorization needed for our Services to process their requests. As of the date this policy went into effect, we use Google BigQuery to track anonymous usage across all users. We use Google Analytics to track usage of our public website at [https://lapsly.com](https://lapsly.com). Google Analytics Privacy Policy can be viewed at [http://www.google.com/intl/en/policies/](http://www.google.com/intl/en/policies/). Information on opting out of Google Analytics can be found [here](https://tools.google.com/dlpage/gaoptout?hl=en)
 
 We store all of our data on Google Cloud Platform.
 
