@@ -1,6 +1,6 @@
 # Lapsly Privacy Policy
 
-_Last Modified: September 15, 2019 (changes to go into effect September 15, 2019)_
+_Last Modified: September 21, 2019 (changes to go into effect September 21, 2019)_
 
 Lapsly is designed for use in schools, and we are committed to the highest standards of protection for student data and personally identifiable information (“PII”) at all times. In addition to this Privacy Policy, we also comply with the Family Educational Rights and Privacy Act (“FERPA”), and the Children’s Online Privacy Protection Act ("COPPA"), and applicable state laws.
 
@@ -52,15 +52,19 @@ In addition, when you use our Services, the following types of information may a
 
 - Metadata concerning your User Content, and other interactions with our Services.
 
+Usage data will only be combined with personal data when required to solve a specific problem you have encountered while using our Services and have requested support in solving the problem.
+
 ## HOW WE USE YOUR INFORMATION
 
-We use your information:
+We use your information to determine general, non-identifying demographics like location (down to the city level), age range (e.g. 25-35), and equipment profiles (e.g. Chromebook with medium-size screen).
 
-- to provide and improve our Services,
+We use this demographic information:
 
-- to administer your use of our Services,
+- to provide and improve our Services
 
-- to better understand your needs and interests,
+- to administer your use of our Services
+
+- to better understand your future needs from our Services
 
 - to personalize and improve your experience
 
@@ -68,9 +72,7 @@ We use your information:
 
 - to enhance current, and develop new, products and services
 
-- to determine general, non-identifying demographics like location (down to the city level), age range (e.g. 25-35), and equipment profiles (e.g. Chromebook with medium-size screen).
-
-If you submit Personal Information to us, we will only use it for the purpose you requested or for which it is collected or for any purpose you subsequently authorize. Lapsly will never sell your information or use it to build to marketing profile.
+If you submit Personal Information to us, we will only use it for the purpose you requested or for which it is collected or for any **educational** purpose you subsequently authorize. Lapsly will never sell your information or use it to build to marketing profile.
 
 ## HOW WE COLLECT USAGE DATA
 
@@ -102,7 +104,7 @@ If you wish to dispute a charge by mail or telephone please contact us at suppor
 
 ## INFORMATION SHARING AND DISCLOSURE
 
-Further, you agree that Lapsly may transfer the anonymous information we collect in the event of any corporate restructuring or any sale, assignment or transfer of substantially all of its rights in the Apps.
+Further, you agree that Lapsly may transfer the anonymous information we collect in the event of any corporate restructuring or any sale, assignment or transfer of substantially all of its rights in the Apps to an entity which has signed the [Student Privacy Pledge](https://studentprivacypledge.org/). You will have the opportunity to opt out of any such transfer of your information.
 
 We may disclose information about you if we become subject to a subpoena or court order, or if we are otherwise legally required to disclose information. We may also use and disclose information about you to establish or exercise our legal rights, to enforce the Terms of Use, to assert and defend against legal claims, or if we believe such disclosure is necessary to investigate, prevent, or take other action regarding actual or suspected illegal or fraudulent activities or potential threats to the physical safety or well-being of any person. If we are involved in a merger, acquisition, or sale of all or a portion of our assets, your information may be transferred as part of that transaction, but we will notify you (for example, via email and/or a prominent notice on our website) of any change in control or use of your Personal Information or User Content, or if either become subject to a different Privacy Policy. We will also notify you of choices you may have regarding the information.
 
@@ -112,7 +114,7 @@ Lapsly will display your Personal Information in your profile page and elsewhere
 
 Service Providers used for business functions:
 
-- [SendGrid](https://sendgrid.com) to perform personalized email communication (only for teacher users who have opted into receiving emial communicaion from Lapsly.)
+- [SendGrid](https://sendgrid.com) to perform personalized email communication (only for teacher users who have opted into receiving email communication from Lapsly.)
 
 - [Google BigQuery](https://cloud.google.com/bigquery) to analyze and report usage data.
 
@@ -138,9 +140,21 @@ Our Services may contain links to other Web sites whose privacy practices may di
 
 ## SECURITY
 
-Lapsly takes reasonable steps to help protect Information against loss, misuse, unauthorized access or disclosure. **Lapsly expressly disclaims any representation or warranty, whether express or implied, with respect to offering any definitive promise of security in connection with The anonymous information we collect.**
+Lapsly takes reasonable steps to help protect Information against loss, misuse, unauthorized access or disclosure. All personal data are stored on- and secured with Google Cloud Platform (GCP). You can read more about GCP's security practices [here](https://cloud.google.com/security/overview/whitepaper).
+
+Our employees are granted access to personal data stored in our GCP account though a secure sign-in process. Employees' access to user data is only granted to Employees when it is necessary to perform one of the functions listed in the section HOW WE USE YOUR INFORMATION. Employees receive training on data security and need to sign a confidentiality agreement which prohibits them from storing any user data outside of GCP (e.g. on their local devices) before being granted access to any user data. Once an employee leaves the company their access to user data is immediately removed.
+
+We require our employees to take reasonable steps to secure their devices to prevent unauthorized access to user data through saved GCP logins. This includes a requirement for securing their devices with strong passwords, and encrypting the device storage.
+
+**Lapsly expressly disclaims any representation or warranty, whether express or implied, with respect to offering any definitive promise of security in connection with the anonymous information we collect.**
 
 ## OUR POLICY TOWARD CHILDREN
+
+We will never collect, use, share, or sell any behavioral information of users identified as students beyond the authorized educational or school purposes, or as authorized by the student or parent.
+
+We will never permit any information collected through our Services to be used to provide behaviorally targeted advertising towards users identified as students by us or a 3rd party.
+
+We will never display advertising of any kind to users identified as students on our Services.
 
 We are required under the Children’s Online Privacy Protection Act (COPPA), with limited exceptions, to obtain verifiable parental consent in order to collect, use, or disclose personal information from Children. COPPA allows the Child’s School to obtain consent for the online collection of personal information from Children who are students of the School.
 
@@ -155,6 +169,10 @@ If a Parent chooses to prohibit any future collection, use or disclosure of the 
 ## DATA LOCATION
 
 If you reside outside the U.S., the information we collect will be transferred to the U.S. and processed and stored there under U.S. privacy standards. By using the Services and providing Information to Lapsly, you consent to the use, transfer and processing of the anonymous information we collect as set forth in this Privacy Policy, all of which activities will take place in the U.S.
+
+## DATA RETENTION
+
+We will only retain your personal data for as long as necessary to provide you with our Services. When your account is deleted, all information associated with your account is deleted from our Services. This data is permanently removed from all live and backup systems within 180 days of your account being deleted.
 
 ## CONTACTING US
 
