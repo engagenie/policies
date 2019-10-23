@@ -1,8 +1,8 @@
-# Lapsly and GDPR
+# Lapsly & EU Data Protection (GDPR)
 
 ## Who we are
 
-Laplsy is created and managed by Engagenie, Inc. a corporation based in the United States. Engagenie, Inc. is the Data Controller. Our contact in Europe is Adriaan van der Bergh - Ratherstr. 25, 40476, Düsseldorf, Germany.
+Lapsly is created and managed by Engagenie, Inc. a corporation based in the United States. Engagenie, Inc. is the Data Controller. Our contact in Europe is Adriaan van der Bergh - Ratherstr. 25, 40476, Düsseldorf, Germany.
 
 ## Legal basis for data processing
 

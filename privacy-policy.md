@@ -6,6 +6,8 @@ Lapsly is designed for use in schools, and we are committed to the highest stand
 
 This Privacy Policy explains how Engagenie, Inc., ("**_we_**" or “**_Lapsly_**”) use, protect, and disclose the information we collect when you use the Lapsly services (the “**_Services_**”) through our website [www.Lapsly.com](http://lapsly.com) (“**_Site_**”), [Web Application](https://app.lapsly.com), [Lapsly Google Chrome Extension], through APIs, and through third parties. A “**_Device_**” is any computer used to access the Services, including without limitation a desktop, laptop, smartphone, tablet, or other consumer electronic device.
 
+Users in the European Union, please read our statement on the General Data Protection Regulation (GDPR) [here](https://github.com/engagenie/policies/blob/master/gdpr-statement.md).
+
 _Changes to this Privacy Policy_
 
 We manage changes to this Privacy Policy via [this public repository](https://github.com/engagenie/policies) hosted on GitHub.com. If we make a material change to this Privacy Policy with respect to how we collect and use your personal information, we will provide at least 30 days’ prior written notice to you by email to the email address specified in your account, if you have one, so that you have sufficient time to evaluate the change, and you can choose to opt-out by revoking Google or Microsoft Permission to your Lapsly account before the change takes effect. **IF YOU DO NOT ACCEPT THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SERVICES.**
