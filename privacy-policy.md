@@ -1,6 +1,6 @@
 # Lapsly Privacy Policy
 
-_Last Modified: September 21, 2019 (changes to go into effect September 21, 2019)_
+_Last Modified: October 29, 2019 (changes to go into effect Mpvember 29, 2019)_
 
 Lapsly is designed for use in schools, and we are committed to the highest standards of protection for student data and personally identifiable information (“PII”) at all times. In addition to this Privacy Policy, we also comply with the Family Educational Rights and Privacy Act (“FERPA”), and the Children’s Online Privacy Protection Act ("COPPA"), and applicable state laws.
 
@@ -16,27 +16,37 @@ We manage changes to this Privacy Policy via [this public repository](https://gi
 
 Lapsly may collect and store the following information when running our Services.
 
-## Information You Provide
+_Please see the section [Our Policy Towards Children](our-policy-toward-children) for specific information on how we collect and store student data._
 
-Lapsly does not intentionally collect any personally identifiable information ("PII") from users identified as students. Depending on how you use the Services, you may be required to provide certain personally identifiable information ("**_Personal Information_**") through your Google Account, which may include, but is not limited to, your:
+### Information You Provide
 
-- Email Address (associated with a Google Account)
+Depending on how you use the Services, you may be required to provide certain personally identifiable information ("**_Personal Information_**") through your Google Account, which may include, but is not limited to, your:
 
-- Name (if you include it in your Google Profile)
+- Email Address (associated with a Google Account),
 
-- Your image and likeness if you include it in your Google profile or include in content that you create with our Services (these type of files are referred to as your "**_User Content_**")
+- Name (if you include it in your Google Profile),
 
-- User Content may include text images and media that you include in your Lapsly submissions.
+- Your image and likeness if you include it in your Google profile or include in content that you create with our Services (these type of files are referred to as your "**_User Content_**"),
+
+- User Content may include text images and media that you include in your Lapsly submissions,
+
+- Your Device’s Internet Protocol ("**_IP_**") address,
+
+- Non-precise geographic location (e.g. zip code and city),
+
+- Metadata concerning your User Content, and other interactions with our Services,
+
+- System configuration information, and
+
+- Technical information about your device, system and App software, and peripherals.
 
 You may choose not to provide your Personal Information; however, if you do not provide your Personal Information you may not be able to use all the functions offered by the Services.
 
 For questions about your Personal Information on our Services, please contact privacy@engagenie.com.
 
-## Usage Data
+### Usage Data
 
 In addition, when you use our Services, the following types of information may all be logged automatically ("**_Usage Information_**"):
-
-- Your Device’s Internet Protocol ("**_IP_**") address,
 
 - Type of mobile device you use,
 
@@ -44,15 +54,7 @@ In addition, when you use our Services, the following types of information may a
 
 - Browser type,
 
-- Non-precise geographic location (e.g. zip code and city)
-
-- Technical information about your device, system and App software, and peripherals,
-
-- Date and time stamps associated with transactions,
-
-- System configuration information, and
-
-- Metadata concerning your User Content, and other interactions with our Services.
+- Date and time stamps associated with transactions.
 
 Usage data will only be combined with personal data when required to solve a specific problem you have encountered while using our Services and have requested support in solving the problem.
 
@@ -76,11 +78,15 @@ We use this demographic information:
 
 If you submit Personal Information to us, we will only use it for the purpose you requested or for which it is collected or for any **educational** purpose you subsequently authorize. Lapsly will never sell your information or use it to build to marketing profile.
 
+_Please see the section [Our Policy Towards Children](our-policy-toward-children) for specific information on how we use data from users identified as students._
+
 ## HOW WE COLLECT USAGE DATA
 
 Lapsly collects some information (ourselves or using third party services) using logging and cookies, such as IP address, which can be correlated with Personal Information. We use this information for the above purposes and to monitor and analyze use of our Services, for the Service’s technical administration, to increase our Service’s functionality and user-friendliness, and to verify users have the authorization needed for our Services to process their requests. As of the date this policy went into effect, we use Google BigQuery to track anonymous usage across all users. We use Google Analytics to track usage of our public website at [https://lapsly.com](https://lapsly.com). Google Analytics Privacy Policy can be viewed at [http://www.google.com/intl/en/policies/](http://www.google.com/intl/en/policies/). Information on opting out of Google Analytics can be found [here](https://tools.google.com/dlpage/gaoptout?hl=en)
 
 We store all of our data on Google Cloud Platform.
+
+_Please see the section [Our Policy Towards Children](our-policy-toward-children) for specific information on how we collect usage data from users identified as students._
 
 ## DATA OWNERSHIP
 
@@ -112,7 +118,7 @@ We may disclose information about you if we become subject to a subpoena or cour
 
 Lapsly will display your Personal Information in your profile page and elsewhere on our Services according to the preferences you set in your account. Any information you choose to provide should reflect how much you want others to know about you. Please consider carefully what information you disclose in your profile page and your desired level of anonymity. You can review and revise your profile information at any time. We do not sell your personal information to third parties. We may also share or disclose your information with your consent, for example if you use a third party application to access your account. Through certain features of our Services, you may also have the ability to make some of your information public. Public information may be broadly and quickly disseminated.
 
-**Service Providers, Business Partners and Others**. Lapsly may use certain trusted third party companies and individuals to help us provide, analyze, and improve our Services (including but not limited to data storage, maintenance services, database management, web analytics, email communication, payment processing, and improvement of the Service’s features). These third parties may have access to your information only for purposes of performing these tasks on our behalf and under obligations similar to those in this Privacy Policy. As of the date this policy went into effect, we use:
+**Service Providers, Business Partners and Others**. Lapsly may use certain trusted third party companies and individuals to help us provide, analyze, and improve our Services (including but not limited to data storage, maintenance services, database management, web analytics, email communication, payment processing, and improvement of the Service’s features). These third parties may have access to your information only for purposes of performing these tasks on our behalf. We only contract with Third Parties whose Privacy Practices _(including security and data retention)_ are in adherence with the [Student Privacy Pledge](https://studentprivacypledge.org/privacy-pledge/). As of the date this policy went into effect, we use:
 
 Service Providers used for business functions:
 
@@ -127,8 +133,6 @@ Service Providers used for the technical infrastructure of our application:
 - Google's Cloud Platform and Google Drive to store some of your information (for example, your User Content)
 
 - Firebase.com to store some of your information (for example, course enrollments, names and student responses)
-
-**Third-Party Applications**. Lapsly may share your Information with a third party application with your consent, for example when you choose to access our Services through such an application. We are not responsible for what those parties do with your information, so you should make sure you trust the application and that it has a privacy policy acceptable to you.
 
 **Non-private or Non-Personal Information**. Lapsly may disclose your non-private, aggregated, or otherwise non-personal information, such as usage statistics of our Services. However, in such cases, your usage data is aggregated with the usage data of others and does not identify you individually.
 
