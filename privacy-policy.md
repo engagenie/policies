@@ -1,8 +1,8 @@
 # Lapsly Privacy Policy
 
-_Last Modified: October 29, 2019 (changes to go into effect Mpvember 29, 2019)_
+_Last Modified: October 30, 2019 (changes to go into effect November 30, 2019)_
 
-Lapsly is designed for use in schools, and we are committed to the highest standards of protection for student data and personally identifiable information (“PII”) at all times. In addition to this Privacy Policy, we also comply with the Family Educational Rights and Privacy Act (“FERPA”), and the Children’s Online Privacy Protection Act ("COPPA"), and applicable state laws.
+Lapsly is designed for use in schools, and we are committed to the highest standards of protection for student data and personally identifiable information (“PII”) at all times. In addition to this Privacy Policy, we also comply with the Family Educational Rights and Privacy Act (“FERPA”), and the Children’s Online Privacy Protection Act ("COPPA"), and applicable state laws. In addition, Lapsly has signed the [Student Privacy Pledge](https://studentprivacypledge.org/).
 
 This Privacy Policy explains how Engagenie, Inc., ("**_we_**" or “**_Lapsly_**”) use, protect, and disclose the information we collect when you use the Lapsly services (the “**_Services_**”) through our website [www.Lapsly.com](http://lapsly.com) (“**_Site_**”), [Web Application](https://app.lapsly.com), [Lapsly Google Chrome Extension], through APIs, and through third parties. A “**_Device_**” is any computer used to access the Services, including without limitation a desktop, laptop, smartphone, tablet, or other consumer electronic device.
 
